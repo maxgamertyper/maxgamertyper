@@ -14,8 +14,6 @@
 * I'm Male
 * I'm wanting to learn Java
 
-###stay cool
-
 <!--
 **maxgamertyper/maxgamertyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
