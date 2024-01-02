@@ -7,8 +7,18 @@
 |Name|About|
 |-|-|
 |[Kahoot Library](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
+
+### About me
+I'm Max 
+14 years old
+Male
+wanting to learn Java
+
+stay cool
+
 <!--
 **maxgamertyper/maxgamertyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
