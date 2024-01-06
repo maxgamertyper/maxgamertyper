@@ -6,7 +6,7 @@
 ### Top Projects:
 |Name|About|
 |-|-|
-|[Kahoot Library](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
+|[Pyhoot](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
 
 ### About me
 * I'm Max 
