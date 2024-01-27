@@ -15,9 +15,9 @@
 * I'm wanting to learn Java
 
 ### future project ideas (in order of priority)
-* make a discord bot related to pyhoot (kahcord? idk)
 * a python library for blooket (blooketpy name subject to change)
 * a python library for gimkit (gimkitpy name subject to change)
+* make a discord bot related to pyhoot (kahcord? idk)
 
 <!--
 **maxgamertyper/maxgamertyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
