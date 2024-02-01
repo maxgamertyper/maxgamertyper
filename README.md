@@ -7,7 +7,7 @@
 |Name|About|
 |-|-|
 |[Pyhoot](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
-|[Image-To-Unicode](https://github.com/maxgamertyper/Image-to-unicode)|Code that Converts Images to Unicode Characters|
+|[Image-To-Unicode](https://github.com/maxgamertyper/Image-to-unicode)|Code that Converts Images and videos to Unicode Characters|
 
 ### About me
 * I'm Max 
