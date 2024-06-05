@@ -1,7 +1,7 @@
 ### Hi there! I'm Max. I do stuff in Python.
-![Maxgamertyper's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maxgamertyper&theme=algolia&count_private=true)
+![Maxgamertyper's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maxgamertyper&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxgamertyper&theme=algolia&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxgamertyper&theme=tokyonight)
 
 ### Top Projects:
 |Name|About|
