@@ -16,6 +16,7 @@
 * I'm wanting to learn Java
 
 ### future project ideas (in order of priority)
+* a text understanding ai type thing
 * a python library for blooket (blooketpy name subject to change)
 * a python library for gimkit (gimkitpy name subject to change)
 * idk if i want to but quizizz and peardeck libraries
