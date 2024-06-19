@@ -7,18 +7,18 @@
 |Name|About|
 |-|-|
 |[Pyhoot](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
-|[Image-To-Unicode](https://github.com/maxgamertyper/Image-to-unicode)|Code that Converts Images and videos to Unicode Characters|
+|[Image-To-Unicode](https://github.com/maxgamertyper/Image-to-unicode)| Code that Converts Images and Videos (kinda) to Unicode Characters|
 
 ### About me
 * I'm Max 
-* I'm 14 years old
+* I'm 15 years old
 * I'm Male
 * I'm wanting to learn Java
 
 ### future project ideas (in order of priority)
 * a python library for blooket (blooketpy name subject to change)
 * a python library for gimkit (gimkitpy name subject to change)
-* make a discord bot related to pyhoot (kahcord? idk)
+* idk if i want to but quizizz and peardeck libraries
 
 <!--
 **maxgamertyper/maxgamertyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
