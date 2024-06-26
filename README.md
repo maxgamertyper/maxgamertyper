@@ -16,10 +16,11 @@
 * I'm wanting to learn Java
 
 ### future project ideas (in order of priority)
+* peardeck and infinite campus library
 * a text understanding ai type thing
 * a python library for blooket (blooketpy name subject to change)
 * a python library for gimkit (gimkitpy name subject to change)
-* idk if i want to but quizizz and peardeck libraries
+* quizziz library
 
 <!--
 **maxgamertyper/maxgamertyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
