@@ -7,7 +7,7 @@
 |Name|About|
 |-|-|
 |[Pyhoot](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
-|[Image-To-Unicode](https://github.com/maxgamertyper/Image-to-unicode)| Code that Converts Images and Videos (kinda) to Unicode Characters|
+|[MyBoplMods](https://github.com/maxgamertyper/MyBoplMods)| A list of my Bopl mods :grin:|
 
 ### About me
 * I'm Max 
