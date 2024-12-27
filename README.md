@@ -13,7 +13,8 @@
 * I'm Max 
 * I'm 15 years old
 * I'm Male
-* I'm wanting to learn Java
+* I know Python, c# and a little JS and Java
+* I'm wanting to fully learn Java
 
 ### future project ideas (in order of priority)
 * peardeck and infinite campus library
