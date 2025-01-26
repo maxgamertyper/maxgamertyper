@@ -1,4 +1,4 @@
-### Hi there! I'm Max. I do stuff in Python.
+### Hi there! I'm Max. I do stuff
 ![Maxgamertyper's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maxgamertyper&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxgamertyper&theme=tokyonight)
