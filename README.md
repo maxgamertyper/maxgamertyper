@@ -11,7 +11,7 @@
 
 ### About me
 * I'm Max 
-* I'm 15 years old
+* I'm 16 years old
 * I'm Male
 * I know Python, c# and a little JS and Java
 * I'm wanting to fully learn Java
