@@ -22,6 +22,9 @@
 * other libraries? idk
 * im open to any ideas
 
+  
+📫 Email: maxa5302@gmail.com
+ngl, its not very likely that i respond but thats my email
 <!--
 **maxgamertyper/maxgamertyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
