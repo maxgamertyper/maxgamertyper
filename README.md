@@ -8,6 +8,7 @@
 |-|-|
 |[Pyhoot](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
 |[MyBoplMods](https://github.com/maxgamertyper/MyBoplMods)| A list of my Bopl mods :grin:|
+|[DiscordBlackJack](https://github.com/maxgamertyper/DiscordBlackJack) | A way to interact with the blackjack activity on Discord|
 
 ### About me
 * I'm Max 
