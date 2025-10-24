@@ -18,8 +18,6 @@
 * I'm wanting to fully learn Java
 
 ### future project ideas (in order of priority)
-* peardeck and infinite campus library
-* a text understanding ai type thing
 * other libraries? idk
 * im open to any ideas
 
