@@ -9,6 +9,8 @@
 |[Pyhoot](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
 |[MyBoplMods](https://github.com/maxgamertyper/MyBoplMods)| A list of my Bopl mods :grin:|
 |[DiscordBlackJack](https://github.com/maxgamertyper/DiscordBlackJack) | A way to interact with the blackjack activity on Discord|
+|[ImageToUnicodeV2](https://github.com/maxgamertyper/ImageToUnicodeV2) | A cool rewrite of my original image to unicode converter made more efficient and in java!|
+
 
 ### About me
 * I'm Max 
