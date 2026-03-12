@@ -16,7 +16,7 @@
 * I'm Max 
 * I'm 16 years old
 * I'm Male
-* I know Python, c#, Java, a tiny bit of html, css, and java
+* I know Python, C#, Java, and a tiny bit of HTML, CSS, and JS
 * I'm wanting to fully learn web development *never thought i'd say that*
 
 ### future project ideas (in order of priority)
