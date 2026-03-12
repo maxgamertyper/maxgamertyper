@@ -9,19 +9,19 @@
 |[Pyhoot](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
 |[MyBoplMods](https://github.com/maxgamertyper/MyBoplMods)| A list of my Bopl mods :grin:|
 |[DiscordBlackJack](https://github.com/maxgamertyper/DiscordBlackJack) | A way to interact with the blackjack activity on Discord|
-|[ImageToUnicodeV2](https://github.com/maxgamertyper/ImageToUnicodeV2) | A cool rewrite of my original image to unicode converter made more efficient and in java!|
+|[ImageToUnicodeV2](https://github.com/maxgamertyper/ImageToUnicodeV2) | A cool rewrite of my original image to unicode converter made more efficient and in Java!|
 
 
 ### About me
 * I'm Max 
 * I'm 16 years old
 * I'm Male
-* I know Python, c# and a little JS and Java
-* I'm wanting to fully learn Java
+* I know Python, c#, Java, a tiny bit of html, css, and java
+* I'm wanting to fully learn web development *never thought i'd say that*
 
 ### future project ideas (in order of priority)
-* other libraries? idk
-* im open to any ideas
+* make the blackjack thing a website; as a base
+* then probably make a portfolio since college apps are soon
 
   
 📫 Email: maxa5302@gmail.com
