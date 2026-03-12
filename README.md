@@ -19,9 +19,15 @@
 * I know Python, C#, Java, and a tiny bit of HTML, CSS, and JS
 * I'm wanting to fully learn web development *never thought i'd say that*
 
+### what I'm working on
+* image to equations
+* studying for school :C (coding is better); next year I get to have mainly computer science classes though!
+
 ### future project ideas (in order of priority)
 * make the blackjack thing a website; as a base
 * then probably make a portfolio since college apps are soon
+* Maybe a P2P relay server? since i really like that idea and need to transfer files to my hbs
+* maybe buy a domain and host a site and api because that'd be cool
 
   
 📫 Email: maxa5302@gmail.com
