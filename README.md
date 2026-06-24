@@ -29,9 +29,6 @@
 * Maybe a P2P relay server? since i really like that idea and need to transfer files to my hbs
 * maybe buy a domain and host a site and api because that'd be cool
 
-  
-📫 Email: maxa5302@gmail.com
-ngl, its not very likely that i respond but thats my email
 <!--
 **maxgamertyper/maxgamertyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
