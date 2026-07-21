@@ -9,24 +9,24 @@
 |[Pyhoot](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
 |[MyBoplMods](https://github.com/maxgamertyper/MyBoplMods)| A list of my Bopl mods :grin:|
 |[DiscordBlackJack](https://github.com/maxgamertyper/DiscordBlackJack) | A way to interact with the blackjack activity on Discord|
-|[ImageToUnicodeV2](https://github.com/maxgamertyper/ImageToUnicodeV2) | A cool rewrite of my original image to unicode converter made more efficient and in Java!|
+|[ImageToUnicodeV2](https://github.com/maxgamertyper/ImageToUnicodeV2) | A cool rewrite of my original image to Unicode converter, made more efficient and in Java!|
 
 
 ### About me
 * I'm Max 
-* I'm 16 years old
+* I'm 17 years old
 * I'm Male
-* I know Python, C#, Java, and a tiny bit of HTML, CSS, and JS
-* I'm wanting to fully learn web development *never thought i'd say that*
+* I know Python, C#, Java, basic C++, and a tiny bit of HTML, CSS, and JS
+* I want to fully learn web development *never thought I'd say that* (still partially true but I still like backend more)
 
 ### what I'm working on
-* image to equations
-* studying for school :C (coding is better); next year I get to have mainly computer science classes though!
+* Image Codec (derived from the image to equations)
+* SAT study time :C
 
 ### future project ideas (in order of priority)
-* make the blackjack thing a website; as a base
-* then probably make a portfolio since college apps are soon
-* Maybe a P2P relay server? since i really like that idea and need to transfer files to my hbs
+* Finish my C++ project for class
+* Finish my image codec (encoding and decoding left, and some refactoring and optimizations but idk)
+* I kind of want to make an OS for a microprocessor like a scheduler, file system, drivers, etc.
 * maybe buy a domain and host a site and api because that'd be cool
 
 <!--
