@@ -8,7 +8,7 @@
 |-|-|
 |[Pyhoot](https://github.com/maxgamertyper/pyhoot)|A Kahoot! library for interacting with its api|
 |[MyBoplMods](https://github.com/maxgamertyper/MyBoplMods)| A list of my Bopl mods :grin:|
-|[DiscordBlackJack](https://github.com/maxgamertyper/DiscordBlackJack) | A way to interact with the blackjack activity on Discord|
+|[Sushi](https://github.com/maxgamertyper/C4GMinesCybersecurity) | A Chrome extension aimed at scanning emails for phishing scams. Made for C4G@CSMines|
 |[ImageToUnicodeV2](https://github.com/maxgamertyper/ImageToUnicodeV2) | A cool rewrite of my original image to Unicode converter, made more efficient and in Java!|
 
 
